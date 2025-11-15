@@ -1,5 +1,5 @@
 # FiveM-Server-Crawler
-## This tool will crawl through your FiveM Resources Directory and create datasets based on using code as an answer that an LLM with synthetically generate questions for. These questions can be answered by another LLM or yourself to classify the results.
+## This tool will crawl through your FiveM Resources Directory and create datasets based on using code as an answer that an LLM will synthetically generate questions for. These questions can be answered by another LLM or yourself to classify the results.
 
 To use this please make sure you have Ollama installed from https://ollama.com
 Also make sure your GPU can handle the model you are installing. For tasks like this on Consumer grade GPU's I recommend sticking with 1-3b Models,
