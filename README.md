@@ -17,3 +17,7 @@ Merging takes time and GPU, RAG is smarter, add search to your data and it becom
 Be sure to join the AJTheDev discord for more cool FiveM Related projects:
 
 https://discord.gg/d39aaZXAjh
+
+I fix the bugs other devs gaslight you about.
+AI tools, FiveM systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
